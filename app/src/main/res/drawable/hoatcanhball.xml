@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/cir8" android:duration="200" />
+    <item android:drawable="@drawable/cir7" android:duration="200" />
+    <item android:drawable="@drawable/cir6" android:duration="200" />
+    <item android:drawable="@drawable/cir5" android:duration="200" />
+    <item android:drawable="@drawable/cir4" android:duration="200" />
+    <item android:drawable="@drawable/cir3" android:duration="200" />
+    <item android:drawable="@drawable/cir2" android:duration="200" />
+    <item android:drawable="@drawable/cir1" android:duration="200" />
+    <item android:drawable="@drawable/cir2" android:duration="200" />
+    <item android:drawable="@drawable/cir3" android:duration="200" />
+    <item android:drawable="@drawable/cir4" android:duration="200" />
+    <item android:drawable="@drawable/cir5" android:duration="200" />
+    <item android:drawable="@drawable/cir6" android:duration="200" />
+    <item android:drawable="@drawable/cir7" android:duration="200" />
+    <item android:drawable="@drawable/cir8" android:duration="200" />
+
+</animation-list>

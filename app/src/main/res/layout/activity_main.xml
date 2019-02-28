@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/line"
+    tools:context="com.example.admin.ielts_speaking_simulator.MainActivity">
+
+    <TextView
+        android:id="@+id/txtquestion"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:visibility="gone"/>
+
+    <ImageView
+        android:id="@+id/imgball"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:layout_marginTop="150dp"
+        android:layout_gravity="center"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:gravity="center">
+
+        <Button
+            android:id="@+id/btnspeak"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="SPEAK"
+            android:visibility="gone"/>
+
+        <Button
+            android:id="@+id/ghiam"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="start"
+            android:visibility="gone"/>
+
+        <Button
+            android:id="@+id/dungghiam"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:enabled="false"
+            android:text="stop"
+            android:textStyle="bold"
+            android:visibility="gone"/>
+
+        <Button
+            android:id="@+id/btnActivityResult"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="ANSWER"
+            android:visibility="gone"/>
+        <Button
+            android:id="@+id/button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Recognizer"
+            android:visibility="gone"/>
+
+        <EditText
+            android:id="@+id/editText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="30dp"
+            android:hint="You will see input here"/>
+    </LinearLayout>
+
+
+
+</LinearLayout>
