@@ -11,5 +11,5 @@ I built this when I was in high school and knew a little bit about Android Studi
 (I highly recommend that you have internet access for more accuracy.)
 
 ## What is still missing
-A delete function, which deletes current audio files stored in the phone.
+A delete function, which deletes current audio files stored on the phone.
 
