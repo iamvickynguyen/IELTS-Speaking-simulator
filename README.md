@@ -8,7 +8,7 @@ I built this when I was in high school and knew a little bit about Android Studi
 - Automatically asks another question if the user stops speaking for a specific amount of time
 - User can listen to their recordings and figure out their mistakes
 
-(I highly recommend that you have internet access for more accuracy.)
+(I highly recommend that you have internet access for accuracy.)
 
 ## What is still missing
 A delete function, which deletes current audio files stored on the phone.
